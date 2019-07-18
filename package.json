@@ -1,0 +1,27 @@
+{
+  "name": "react-custom-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusBordin/react-custom-component.git"
+  },
+  "keywords": [
+    "react",
+    "custom-components",
+    "web-components"
+  ],
+  "author": "Matheus Bordin <mantbordin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusBordin/react-custom-component/issues"
+  },
+  "homepage": "https://github.com/MatheusBordin/react-custom-component#readme",
+  "peerDependencies": {
+    "react": "^16.8.3"
+  }
+}
